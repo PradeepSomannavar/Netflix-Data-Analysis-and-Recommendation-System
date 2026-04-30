@@ -163,6 +163,3 @@ This project aligns with roles in:
 - NLP Engineering
 - Recommendation Systems
 
----
-
-*This project is open-source and created for learning and portfolio demonstration.*
